@@ -52,8 +52,8 @@ var legend2 = document.getElementById('legend2');
 
 
 singleStoreFront.on('load', function() {
-  var layers = ['take-out/delivery', 'closed'];
-  var colors = ['#c91d1d', '#eedd87'];
+  var layers = ['take-out/delivery', 'closed','Columbia property'];
+  var colors = ['#c91d1d', '#eedd87','#a8d1f0'];
 
   for (var i = 0; i < layers.length; i++) {
     var layer = layers[i];
@@ -72,8 +72,8 @@ singleStoreFront.on('load', function() {
 });
 
 multiStoreFront.on('load', function() {
-  var layers = ['take-out/delivery', 'closed'];
-  var colors = ['#c91d1d', '#eedd87'];
+  var layers = ['take-out/delivery', 'closed','Columbia property'];
+  var colors = ['#c91d1d', '#eedd87','#a8d1f0'];
 
   for (var j = 0; j < layers.length; j++) {
     var layer = layers[j];
