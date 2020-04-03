@@ -1,0 +1,672 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Appletree Market",
+        "locations":"s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9588994,
+          40.8093936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Dig Inn",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9653468,
+          40.8055588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Häagen-Dazs",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9654434,
+          40.806444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Hamilton Deli",
+        "locations":"s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9610952,
+          40.8064744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Hex & Company",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9662319,
+          40.8052624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Junzi Kitchen",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9651587,
+          40.80582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Milano Market",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9652395,
+          40.8057334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#000000",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Mill Korean Restaurant",
+        "locations":"s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96577398499039,
+          40.80608608979489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Morton Williams",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9645904,
+          40.8076824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Sliced by Harlem Pizza Co.",
+        "locations":"s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.959114,
+          40.808986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Tea Magic",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9656385,
+          40.8052044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "The Heights Bar & Grill",
+        "locations":"s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9663121,
+          40.805167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Dinosaur Bar-B-Que",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9608451,
+          40.8180137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Jin Ramen West Harlem",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9588762,
+          40.8154135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "The Expat",
+        "locations":"s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.960078,
+          40.81551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Gristedes",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9703751,
+          40.7992109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "H-Mart",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9665802,
+          40.8038016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "icon": "circle",
+        "scale": 0.5,
+        "textPosition": null,
+        "markerColor": "#ffca76",
+        "markerSymbol": "",
+        "markerTextColor": "#333333",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 14,
+          "halo": "#f2f3f0"
+        },
+        "class": "",
+        "rotate": 0,
+        "locked": false,
+        "tooltip": "Dear Mama Cafe",
+        "locations":"m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9608099,
+          40.8169696
+        ]
+      }
+    }
+  ]
+}
+   
