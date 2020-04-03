@@ -1,36 +1,21 @@
-<html>
+<!-- HTML for the single storefront graphic -->
+<div class='parent'>
+  <div id='singleStoreFront'></div> 
+  <div class='map-overlay' id='legend1'></div>
+</div>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- HTML for the multiple storefront graphic -->
+<div class='parent'>
+  <div id='multiStoreFront'></div>
+  <div class='map-overlay' id='legend2'></div>
+</div>
 
-  <title>{{ headline }}: {{ deck }}</title>
-  <link rel="stylesheet" href="./styles.scss">
-  <link rel="shortcut icon" href="https://www.columbiaspectator.com/pb/resources/img/CDS_Favicon.ico" type="image/x-icon"/>
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,500&display=swap" rel="stylesheet">
-  <script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'>
-  </script>
-  <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
-</head>
+<!-- HTML for the free rent locator map -->
+<div id='freeRent'></div>
 
-<body>
-  <div class = 'parent'> 
-    <div id='singleStoreFront'></div> 
-    <div class='map-overlay' id='legend1'></div>
-  </div>
-
-  <div class ='parent'>
-    <div id='multiStoreFront'></div>
-    <div class='map-overlay' id='legend2'></div>
-  </div>
-
-  <div id='freeRent'></div>
-  
-
-  <script src = 'script.js'></script>
- 
-
-
-</body>
-
-</html>
+<!-- Links and scripts -->
+<link rel="stylesheet" href="./styles.scss">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700,500&display=swap" rel="stylesheet">
+<link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+<script src = './script.js'></script>
