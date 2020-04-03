@@ -64,7 +64,7 @@
         "class": "",
         "rotate": 0,
         "locked": false,
-        "tooltip": "Dig Inn",
+        "tooltip": "Dig",
         "locations":"m"
       },
       "geometry": {
