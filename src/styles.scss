@@ -3,45 +3,19 @@
 // @import 'styles/eye-lead-ellipsis';
 // @import 'styles/news-ellipsis';
 
-.graphic-name {
-  height: 300px;
-  border: 1px solid red;
-  color: red;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
-h2,
-h3 {
-  margin: 10px;
-  font-size: 1.2em;
-}
-
-h3 {
-  font-size: 1em;
-}
-
-p {
-  font-size: 0.85em;
-  margin: 10px;
-  text-align: left;
-}
-
 /**
 * Create a position for the map
 * on the page */
 
 .parent {
   position:relative;
+  margin: 20px auto;
 }
 
 #singleStoreFront, #multiStoreFront, #freeRent {
-  width: 500px;
+  width: 100%;
+  max-width: 500px;
   height: 650px;
-  margin: 10px;
 }
 
 

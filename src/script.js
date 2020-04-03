@@ -1,24 +1,3 @@
-import enterView from 'enter-view';
-import { USE_COVER_HED, USE_EYE_NAV } from '../config.json';
-import './scripts/page.js';
-
-// Fade in navbar at scroll trigger
-
-const navbar = document.getElementById('navbar');
-
-if (USE_COVER_HED || USE_EYE_NAV) {
-  enterView({
-    selector: USE_COVER_HED ? '.headline' : '.step-deck',
-    offset: USE_COVER_HED ? 1 : 0.957,
-    enter: () => {
-      navbar.classList.remove('only-logo');
-    },
-    exit: () => {
-      navbar.classList.remove('show-nav-links');
-      navbar.classList.add('only-logo');
-    },
-  });
-}
 //this is the mapbox stuff
 mapboxgl.accessToken = 'pk.eyJ1IjoiemloYW9sOTkiLCJhIjoiY2s3cXI0eGYyMDE0djNta3RmcmM4aWpvcCJ9.nu5cc_sXdykJEjK7aGtbQQ';
 
@@ -45,7 +24,7 @@ var freeRent = new mapboxgl.Map({
   center: [-73.9651,40.80885]
 });
 
-console.log(mapboxgl)
+
 
 var legend1 = document.getElementById('legend1');
 var legend2 = document.getElementById('legend2');
